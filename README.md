@@ -1,5 +1,5 @@
-# HDLBits
-![Static Badge](https://img.shields.io/badge/Verilog-green)
+# HDLBits_Practice
+![Static Badge](https://img.shields.io/badge/Verilog-green)![Static Badge](https://img.shields.io/badge/100%25-gray)
 
 [HDLBits website][1]提供線上學習設計及模擬電路。
 
